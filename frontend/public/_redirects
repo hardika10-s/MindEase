@@ -1,3 +1,3 @@
 # Replace the URL below with your actual deployed Render URL once you have it!
-/api/*  https://YOUR_RENDER_URL.onrender.com/api/:splat  200
-/* /index.html 200
+/api/*  https://mindease-api-9hlz.onrender.com/api/:splat  200
+/*  /index.html  200
